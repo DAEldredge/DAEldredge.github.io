@@ -1,0 +1,45 @@
+#palette-1 {
+    font-family: cursive;
+    text-align: center;
+}
+
+#p1-c1 {
+    background-color: #A7A669;
+    padding: 24px;
+    text-align: left;
+    font-family: cursive;
+    color: black;
+}
+#p1-c2 {
+    background-color: #FF00D1;
+    padding: 24px;
+    text-align: left;
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+}
+#p1-c3 {
+    background-color: #355E3B;
+    padding: 24px;
+    text-align: left;
+    font-family: bondini;
+    color: rgb(225, 120, 0);
+}
+
+#palette-2 {
+    font-family: sans-serif;
+    text-align: center;
+}
+#p2-c1 {
+    background-color: #000000;
+    padding: 24px;
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+#p2-c2 {
+    background-color: #edc17e;
+    padding: 24px;
+    text-align: right;
+    font-family: gant;
+    color: black;
+}
