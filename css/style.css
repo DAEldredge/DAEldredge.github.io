@@ -72,3 +72,32 @@ body {
     height: 100%;
     object-fit: cover;
 }
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#navbar {
+    background: linear-gradient(to bottom, rgb(3, 4, 3), #0a0c0a);
+    display: flex;
+    align-items: center;
+}
+
+#navbar a {
+    text-decoration: none;
+    color: white;
+    padding: 24px;
+}
+
+#navbar #logo {
+    margin-right: auto;
+}
+
+#navbar #logo img {
+    width: 150px;
+}
